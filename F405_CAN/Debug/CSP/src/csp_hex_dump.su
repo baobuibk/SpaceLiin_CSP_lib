@@ -1,0 +1,2 @@
+../CSP/src/csp_hex_dump.c:8:6:csp_hex_dump_format	56	static
+../CSP/src/csp_hex_dump.c:58:6:csp_hex_dump	24	static

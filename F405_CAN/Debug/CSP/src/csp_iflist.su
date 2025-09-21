@@ -1,0 +1,7 @@
+../CSP/src/csp_iflist.c:14:15:csp_iflist_get_by_subnet	40	static
+../CSP/src/csp_iflist.c:40:15:csp_iflist_get_by_addr	24	static
+../CSP/src/csp_iflist.c:54:15:csp_iflist_get_by_name	24	static
+../CSP/src/csp_iflist.c:65:5:csp_iflist_add	24	static
+../CSP/src/csp_iflist.c:89:15:csp_iflist_get	4	static
+../CSP/src/csp_iflist.c:93:15:csp_bytesize	24	static
+../CSP/src/csp_iflist.c:112:6:csp_iflist_print	120	static

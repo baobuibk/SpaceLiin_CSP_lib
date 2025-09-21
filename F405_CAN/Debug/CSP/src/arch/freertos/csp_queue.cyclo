@@ -1,0 +1,8 @@
+../CSP/src/arch/freertos/csp_queue.c:9:20:csp_queue_create_static	1
+../CSP/src/arch/freertos/csp_queue.c:13:5:csp_queue_enqueue	2
+../CSP/src/arch/freertos/csp_queue.c:22:5:csp_queue_enqueue_isr	2
+../CSP/src/arch/freertos/csp_queue.c:29:5:csp_queue_dequeue	2
+../CSP/src/arch/freertos/csp_queue.c:38:5:csp_queue_dequeue_isr	2
+../CSP/src/arch/freertos/csp_queue.c:45:5:csp_queue_size	1
+../CSP/src/arch/freertos/csp_queue.c:49:5:csp_queue_size_isr	1
+../CSP/src/arch/freertos/csp_queue.c:53:5:csp_queue_free	1

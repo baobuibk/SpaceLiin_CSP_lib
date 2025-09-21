@@ -1,0 +1,4 @@
+../CSP/src/csp_qfifo.c:14:6:csp_qfifo_init	1
+../CSP/src/csp_qfifo.c:18:5:csp_qfifo_read	2
+../CSP/src/csp_qfifo.c:26:6:csp_qfifo_write	7
+../CSP/src/csp_qfifo.c:63:6:csp_qfifo_wake_up	1

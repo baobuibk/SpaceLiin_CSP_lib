@@ -1,0 +1,5 @@
+../CSP/src/csp_port.c:32:16:csp_port_get_callback	16	static
+../CSP/src/csp_port.c:56:16:csp_port_get_socket	16	static
+../CSP/src/csp_port.c:77:5:csp_listen	16	static
+../CSP/src/csp_port.c:82:5:csp_bind	16	static
+../CSP/src/csp_port.c:106:5:csp_bind_callback	16	static

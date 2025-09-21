@@ -1,0 +1,13 @@
+D:/TASK_Y4/F405_CAN/CSP/include/csp/csp.h:144:19:csp_transaction	40	static
+../CSP/src/csp_services.c:11:5:csp_ping	56	static
+../CSP/src/csp_services.c:65:6:csp_ping_noreply	32	static
+../CSP/src/csp_services.c:86:6:csp_reboot	40	static
+../CSP/src/csp_services.c:91:6:csp_shutdown	40	static
+../CSP/src/csp_services.c:96:6:csp_ps	48	static
+../CSP/src/csp_services.c:143:5:csp_get_memfree	48	static
+../CSP/src/csp_services.c:154:6:csp_memfree	24	static
+../CSP/src/csp_services.c:165:5:csp_get_buf_free	48	static
+../CSP/src/csp_services.c:176:6:csp_buf_free	24	static
+../CSP/src/csp_services.c:187:5:csp_get_uptime	48	static
+../CSP/src/csp_services.c:198:6:csp_uptime	24	static
+../CSP/src/csp_services.c:209:5:csp_cmp	48	static

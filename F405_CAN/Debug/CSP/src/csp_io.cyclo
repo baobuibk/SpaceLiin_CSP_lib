@@ -1,0 +1,14 @@
+../CSP/src/csp_io.c:28:16:csp_socket	5
+../CSP/src/csp_io.c:61:14:csp_accept	4
+../CSP/src/csp_io.c:76:16:csp_read	4
+../CSP/src/csp_io.c:106:6:csp_id_copy	1
+../CSP/src/csp_io.c:115:5:csp_send_direct	3
+../CSP/src/csp_io.c:139:28:csp_output_hook	3
+../CSP/src/csp_io.c:145:5:csp_send_direct_iface	11
+../CSP/src/csp_io.c:212:6:csp_send	5
+../CSP/src/csp_io.c:238:6:csp_send_prio	1
+../CSP/src/csp_io.c:243:5:csp_transaction_persistent	8
+../CSP/src/csp_io.c:277:5:csp_transaction_w_opts	2
+../CSP/src/csp_io.c:290:16:csp_recvfrom	3
+../CSP/src/csp_io.c:301:6:csp_sendto	6
+../CSP/src/csp_io.c:338:6:csp_sendto_reply	3

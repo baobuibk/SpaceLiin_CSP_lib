@@ -1,0 +1,13 @@
+../CSP/src/csp_id.c:42:6:csp_id1_prepend	24	static
+../CSP/src/csp_id.c:61:5:csp_id1_strip	24	static
+../CSP/src/csp_id.c:87:6:csp_id1_setup_rx	16	static
+../CSP/src/csp_id.c:123:6:csp_id2_prepend	128	static
+../CSP/src/csp_id.c:143:5:csp_id2_strip	24	static
+../CSP/src/csp_id.c:172:6:csp_id2_setup_rx	16	static
+../CSP/src/csp_id.c:185:6:csp_id_prepend	16	static
+../CSP/src/csp_id.c:193:5:csp_id_strip	16	static
+../CSP/src/csp_id.c:201:5:csp_id_setup_rx	16	static
+../CSP/src/csp_id.c:211:14:csp_id_get_host_bits	4	static
+../CSP/src/csp_id.c:219:14:csp_id_get_max_nodeid	4	static
+../CSP/src/csp_id.c:227:14:csp_id_get_max_port	4	static
+../CSP/src/csp_id.c:231:5:csp_id_is_broadcast	24	static

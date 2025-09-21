@@ -1,0 +1,2 @@
+../CSP/src/arch/freertos/csp_system.c:6:32:csp_memfree_hook	8	static
+../CSP/src/arch/freertos/csp_system.c:14:36:csp_ps_hook	16	static

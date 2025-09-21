@@ -1,0 +1,4 @@
+../CSP/src/csp_sfp.c:23:30:csp_sfp_header_add	24	static
+../CSP/src/csp_sfp.c:30:30:csp_sfp_header_remove	24	static
+../CSP/src/csp_sfp.c:52:5:csp_sfp_send_own_memcpy	40	static
+../CSP/src/csp_sfp.c:99:5:csp_sfp_recv_fp	48	static

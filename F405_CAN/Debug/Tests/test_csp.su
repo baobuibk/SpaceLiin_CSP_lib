@@ -1,0 +1,5 @@
+D:/TASK_Y4/F405_CAN/CSP/include/csp/csp.h:144:19:csp_transaction	40	static
+../Tests/test_csp.c:48:6:CSP_Init	24	static
+../Tests/test_csp.c:86:6:vTaskCspRouter	16	static
+../Tests/test_csp.c:97:6:vTaskCspSend	64	static
+../Tests/test_csp.c:129:6:vTaskCspReceive	24	static
