@@ -1,0 +1,5 @@
+../DEV/libcsp/src/crypto/csp_sha1.c:63:13:csp_sha1_compress	7
+../DEV/libcsp/src/crypto/csp_sha1.c:130:6:csp_sha1_init	1
+../DEV/libcsp/src/crypto/csp_sha1.c:142:6:csp_sha1_process	5
+../DEV/libcsp/src/crypto/csp_sha1.c:168:6:csp_sha1_done	5
+../DEV/libcsp/src/crypto/csp_sha1.c:203:6:csp_sha1_memory	1

@@ -1,2 +1,0 @@
-../CSP/can_stm32/can_stm32.c:23:5:csp_can_tx_frame	1
-../CSP/can_stm32/can_stm32.c:45:6:HAL_CAN_RxFifo0MsgPendingCallback	4

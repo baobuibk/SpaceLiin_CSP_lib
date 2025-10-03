@@ -1,0 +1,3 @@
+../DEV/libcsp/src/arch/freertos/csp_thread.c:23:5:csp_thread_create	40	static
+../DEV/libcsp/src/arch/freertos/csp_thread.c:40:6:csp_thread_exit	8	static
+../DEV/libcsp/src/arch/freertos/csp_thread.c:45:6:csp_sleep_ms	16	static

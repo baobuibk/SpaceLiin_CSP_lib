@@ -1,0 +1,9 @@
+../DEV/libcsp/src/arch/freertos/csp_semaphore.c:24:5:csp_mutex_create	16	static
+../DEV/libcsp/src/arch/freertos/csp_semaphore.c:33:5:csp_mutex_remove	16	static
+../DEV/libcsp/src/arch/freertos/csp_semaphore.c:37:5:csp_mutex_lock	16	static
+../DEV/libcsp/src/arch/freertos/csp_semaphore.c:41:5:csp_mutex_unlock	16	static
+../DEV/libcsp/src/arch/freertos/csp_semaphore.c:45:5:csp_bin_sem_create	16	static
+../DEV/libcsp/src/arch/freertos/csp_semaphore.c:50:5:csp_bin_sem_remove	16	static
+../DEV/libcsp/src/arch/freertos/csp_semaphore.c:57:5:csp_bin_sem_wait	16	static
+../DEV/libcsp/src/arch/freertos/csp_semaphore.c:68:5:csp_bin_sem_post	16	static
+../DEV/libcsp/src/arch/freertos/csp_semaphore.c:76:5:csp_bin_sem_post_isr	16	static

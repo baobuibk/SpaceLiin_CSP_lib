@@ -1,0 +1,4 @@
+../DEV/libcsp/src/arch/freertos/csp_time.c:26:10:csp_get_ms	8	static
+../DEV/libcsp/src/arch/freertos/csp_time.c:30:10:csp_get_ms_isr	8	static
+../DEV/libcsp/src/arch/freertos/csp_time.c:34:10:csp_get_s	8	static
+../DEV/libcsp/src/arch/freertos/csp_time.c:38:10:csp_get_s_isr	8	static

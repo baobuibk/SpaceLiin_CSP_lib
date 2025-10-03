@@ -1,0 +1,3 @@
+../DEV/libcsp/src/csp_crc32.c:64:10:csp_crc32_memory	2
+../DEV/libcsp/src/csp_crc32.c:78:5:csp_crc32_append	3
+../DEV/libcsp/src/csp_crc32.c:103:5:csp_crc32_verify	4

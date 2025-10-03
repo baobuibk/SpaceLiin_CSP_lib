@@ -1,4 +1,0 @@
-../CSP/src/csp_qfifo.c:14:6:csp_qfifo_init	8	static
-../CSP/src/csp_qfifo.c:18:5:csp_qfifo_read	16	static
-../CSP/src/csp_qfifo.c:26:6:csp_qfifo_write	40	static
-../CSP/src/csp_qfifo.c:63:6:csp_qfifo_wake_up	16	static

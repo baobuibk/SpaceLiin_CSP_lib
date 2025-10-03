@@ -1,6 +1,0 @@
-../CSP/src/interfaces/csp_if_can.c:46:5:csp_can1_rx	11
-../CSP/src/interfaces/csp_if_can.c:164:5:csp_can1_tx	8
-../CSP/src/interfaces/csp_if_can.c:260:5:csp_can2_rx	10
-../CSP/src/interfaces/csp_if_can.c:367:5:csp_can2_tx	7
-../CSP/src/interfaces/csp_if_can.c:469:5:csp_can_add_interface	6
-../CSP/src/interfaces/csp_if_can.c:497:5:csp_can_rx	2

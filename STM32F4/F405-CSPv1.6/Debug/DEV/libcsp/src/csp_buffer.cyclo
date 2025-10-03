@@ -1,0 +1,10 @@
+../DEV/libcsp/src/csp_buffer.c:51:5:csp_buffer_init	4
+../DEV/libcsp/src/csp_buffer.c:79:6:csp_buffer_free_resources	2
+../DEV/libcsp/src/csp_buffer.c:90:7:csp_buffer_get_isr	4
+../DEV/libcsp/src/csp_buffer.c:109:7:csp_buffer_get	8
+../DEV/libcsp/src/csp_buffer.c:134:6:csp_buffer_free_isr	6
+../DEV/libcsp/src/csp_buffer.c:164:6:csp_buffer_free	11
+../DEV/libcsp/src/csp_buffer.c:198:7:csp_buffer_clone	3
+../DEV/libcsp/src/csp_buffer.c:214:5:csp_buffer_remaining	1
+../DEV/libcsp/src/csp_buffer.c:218:8:csp_buffer_size	1
+../DEV/libcsp/src/csp_buffer.c:222:8:csp_buffer_data_size	1

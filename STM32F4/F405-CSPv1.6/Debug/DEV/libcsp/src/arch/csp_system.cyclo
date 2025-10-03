@@ -1,0 +1,4 @@
+../DEV/libcsp/src/arch/csp_system.c:28:6:csp_sys_set_reboot	1
+../DEV/libcsp/src/arch/csp_system.c:34:5:csp_sys_reboot	3
+../DEV/libcsp/src/arch/csp_system.c:44:6:csp_sys_set_shutdown	1
+../DEV/libcsp/src/arch/csp_system.c:50:5:csp_sys_shutdown	3

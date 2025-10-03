@@ -1,0 +1,3 @@
+../DEV/libcsp/src/interfaces/csp_if_kiss.c:34:5:csp_kiss_tx	5
+../DEV/libcsp/src/interfaces/csp_if_kiss.c:83:6:csp_kiss_rx	20
+../DEV/libcsp/src/interfaces/csp_if_kiss.c:216:5:csp_kiss_add_interface	8

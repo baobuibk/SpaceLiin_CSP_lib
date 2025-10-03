@@ -1,4 +1,0 @@
-../CSP/src/csp_promisc.c:16:5:csp_promisc_enable	3
-../CSP/src/csp_promisc.c:34:6:csp_promisc_disable	1
-../CSP/src/csp_promisc.c:38:16:csp_promisc_read	2
-../CSP/src/csp_promisc.c:49:6:csp_promisc_add	5

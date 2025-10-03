@@ -1,0 +1,5 @@
+../DEV/libcsp/src/csp_iflist.c:31:15:csp_iflist_get_by_name	24	static
+../DEV/libcsp/src/csp_iflist.c:42:5:csp_iflist_add	24	static
+../DEV/libcsp/src/csp_iflist.c:66:15:csp_iflist_get	4	static
+../DEV/libcsp/src/csp_iflist.c:72:5:csp_bytesize	56	static
+../DEV/libcsp/src/csp_iflist.c:90:6:csp_iflist_print	144	static

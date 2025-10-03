@@ -1,9 +1,0 @@
-../CSP/src/csp_rtable_cidr.c:18:22:csp_rtable_find_exact	24	static
-../CSP/src/csp_rtable_cidr.c:30:15:csp_rtable_find_route	40	static
-../CSP/src/csp_rtable_cidr.c:62:5:csp_rtable_set_internal	32	static
-../CSP/src/csp_rtable_cidr.c:83:6:csp_rtable_free	8	static
-../CSP/src/csp_rtable_cidr.c:87:6:csp_rtable_clear	8	static
-../CSP/src/csp_rtable_cidr.c:91:5:csp_rtable_set	24	static
-../CSP/src/csp_rtable_cidr.c:106:6:csp_rtable_iterate	24	static
-../CSP/src/csp_rtable_cidr.c:114:13:csp_rtable_print_route	24	static
-../CSP/src/csp_rtable_cidr.c:123:6:csp_rtable_print	8	static

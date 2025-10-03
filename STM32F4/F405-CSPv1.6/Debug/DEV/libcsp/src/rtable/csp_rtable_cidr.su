@@ -1,0 +1,5 @@
+../DEV/libcsp/src/rtable/csp_rtable_cidr.c:37:23:csp_rtable_find	32	static
+../DEV/libcsp/src/rtable/csp_rtable_cidr.c:88:21:csp_rtable_find_route	24	static
+../DEV/libcsp/src/rtable/csp_rtable_cidr.c:97:5:csp_rtable_set_internal	24	static
+../DEV/libcsp/src/rtable/csp_rtable_cidr.c:133:6:csp_rtable_free	16	static
+../DEV/libcsp/src/rtable/csp_rtable_cidr.c:142:6:csp_rtable_iterate	32	static

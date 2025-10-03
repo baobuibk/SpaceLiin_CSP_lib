@@ -1,0 +1,8 @@
+../DEV/libcsp/src/arch/freertos/csp_queue.c:26:20:csp_queue_create	1
+../DEV/libcsp/src/arch/freertos/csp_queue.c:30:6:csp_queue_remove	1
+../DEV/libcsp/src/arch/freertos/csp_queue.c:34:5:csp_queue_enqueue	1
+../DEV/libcsp/src/arch/freertos/csp_queue.c:40:5:csp_queue_enqueue_isr	1
+../DEV/libcsp/src/arch/freertos/csp_queue.c:44:5:csp_queue_dequeue	1
+../DEV/libcsp/src/arch/freertos/csp_queue.c:50:5:csp_queue_dequeue_isr	1
+../DEV/libcsp/src/arch/freertos/csp_queue.c:54:5:csp_queue_size	1
+../DEV/libcsp/src/arch/freertos/csp_queue.c:58:5:csp_queue_size_isr	1

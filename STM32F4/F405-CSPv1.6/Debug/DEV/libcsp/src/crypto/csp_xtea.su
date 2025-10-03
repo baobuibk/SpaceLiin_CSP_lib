@@ -1,0 +1,7 @@
+../DEV/libcsp/src/crypto/csp_xtea.c:50:20:csp_xtea_encrypt_block	56	static
+../DEV/libcsp/src/crypto/csp_xtea.c:73:20:csp_xtea_xor_byte	32	static
+../DEV/libcsp/src/crypto/csp_xtea.c:81:5:csp_xtea_set_key	40	static
+../DEV/libcsp/src/crypto/csp_xtea.c:94:5:csp_xtea_encrypt	48	static
+../DEV/libcsp/src/crypto/csp_xtea.c:125:5:csp_xtea_encrypt_packet	40	static
+../DEV/libcsp/src/crypto/csp_xtea.c:150:5:csp_xtea_decrypt	24	static
+../DEV/libcsp/src/crypto/csp_xtea.c:157:5:csp_xtea_decrypt_packet	32	static

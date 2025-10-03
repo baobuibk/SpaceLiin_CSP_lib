@@ -1,0 +1,11 @@
+../DEV/libcsp/src/csp_io.c:50:16:csp_socket	24	static
+../DEV/libcsp/src/csp_io.c:109:14:csp_accept	24	static
+../DEV/libcsp/src/csp_io.c:125:16:csp_read	24	static
+../DEV/libcsp/src/csp_io.c:168:5:csp_send_direct	80	static
+../DEV/libcsp/src/csp_io.c:264:5:csp_send	32	static
+../DEV/libcsp/src/csp_io.c:285:5:csp_send_prio	24	static
+../DEV/libcsp/src/csp_io.c:290:5:csp_transaction_persistent	40	static
+../DEV/libcsp/src/csp_io.c:328:5:csp_transaction_w_opts	32	static
+../DEV/libcsp/src/csp_io.c:342:16:csp_recvfrom	24	static
+../DEV/libcsp/src/csp_io.c:354:5:csp_sendto	24	static
+../DEV/libcsp/src/csp_io.c:403:5:csp_sendto_reply	48	static

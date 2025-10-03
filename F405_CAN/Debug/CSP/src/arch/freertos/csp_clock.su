@@ -1,2 +1,0 @@
-../CSP/src/arch/freertos/csp_clock.c:5:28:csp_clock_get_time	16	static
-../CSP/src/arch/freertos/csp_clock.c:10:27:csp_clock_set_time	16	static

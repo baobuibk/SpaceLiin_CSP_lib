@@ -1,7 +1,0 @@
-../CSP/src/crypto/csp_hmac.c:23:12:csp_hmac_init	96	static
-../CSP/src/crypto/csp_hmac.c:54:12:csp_hmac_process	24	static
-../CSP/src/crypto/csp_hmac.c:66:12:csp_hmac_done	104	static
-../CSP/src/crypto/csp_hmac.c:93:5:csp_hmac_memory	184	static
-../CSP/src/crypto/csp_hmac.c:115:5:csp_hmac_set_key	48	static
-../CSP/src/crypto/csp_hmac.c:127:5:csp_hmac_append	56	static
-../CSP/src/crypto/csp_hmac.c:153:5:csp_hmac_verify	48	static

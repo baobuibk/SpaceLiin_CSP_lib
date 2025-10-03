@@ -1,0 +1,5 @@
+../DEV/libcsp/src/csp_route.c:47:12:csp_route_check_options	16	static
+../DEV/libcsp/src/csp_route.c:85:12:csp_route_security_check	24	static
+../DEV/libcsp/src/csp_route.c:157:5:csp_route_work	88	static
+../DEV/libcsp/src/csp_route.c:316:8:csp_task_router	16	static
+../DEV/libcsp/src/csp_route.c:327:5:csp_route_start_task	32	static

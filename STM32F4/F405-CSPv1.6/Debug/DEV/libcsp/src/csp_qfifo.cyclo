@@ -1,0 +1,5 @@
+../DEV/libcsp/src/csp_qfifo.c:32:5:csp_qfifo_init	4
+../DEV/libcsp/src/csp_qfifo.c:55:6:csp_qfifo_free_resources	3
+../DEV/libcsp/src/csp_qfifo.c:73:5:csp_qfifo_read	2
+../DEV/libcsp/src/csp_qfifo.c:104:6:csp_qfifo_write	13
+../DEV/libcsp/src/csp_qfifo.c:165:6:csp_qfifo_wake_up	1

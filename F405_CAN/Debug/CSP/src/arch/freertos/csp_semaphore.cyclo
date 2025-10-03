@@ -1,3 +1,0 @@
-../CSP/src/arch/freertos/csp_semaphore.c:12:6:csp_bin_sem_init	1
-../CSP/src/arch/freertos/csp_semaphore.c:17:5:csp_bin_sem_wait	2
-../CSP/src/arch/freertos/csp_semaphore.c:31:5:csp_bin_sem_post	2

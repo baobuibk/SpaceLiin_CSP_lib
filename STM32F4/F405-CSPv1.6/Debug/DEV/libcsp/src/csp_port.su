@@ -1,0 +1,5 @@
+../DEV/libcsp/src/csp_port.c:37:16:csp_port_get_socket	16	static
+../DEV/libcsp/src/csp_port.c:56:5:csp_port_init	8	static
+../DEV/libcsp/src/csp_port.c:67:6:csp_port_free_resources	8	static
+../DEV/libcsp/src/csp_port.c:73:5:csp_listen	16	static
+../DEV/libcsp/src/csp_port.c:88:5:csp_bind	16	static

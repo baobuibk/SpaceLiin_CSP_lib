@@ -1,4 +1,0 @@
-../CSP/src/interfaces/csp_if_can_pbuf.c:15:6:csp_can_pbuf_free	6
-../CSP/src/interfaces/csp_if_can_pbuf.c:48:16:csp_can_pbuf_new	4
-../CSP/src/interfaces/csp_if_can_pbuf.c:70:6:csp_can_pbuf_cleanup	4
-../CSP/src/interfaces/csp_if_can_pbuf.c:98:16:csp_can_pbuf_find	4

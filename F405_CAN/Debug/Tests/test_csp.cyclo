@@ -1,5 +1,0 @@
-D:/TASK_Y4/F405_CAN/CSP/include/csp/csp.h:144:19:csp_transaction	1
-../Tests/test_csp.c:48:6:CSP_Init	1
-../Tests/test_csp.c:86:6:vTaskCspRouter	1
-../Tests/test_csp.c:97:6:vTaskCspSend	2
-../Tests/test_csp.c:129:6:vTaskCspReceive	2

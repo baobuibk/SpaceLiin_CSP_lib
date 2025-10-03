@@ -1,0 +1,10 @@
+D:/tmp/F405-CSPv1.6/DEV/libcsp/include/csp/csp_rtable.h:149:19:csp_route_set	1
+../DEV/libcsp/src/csp_service_handler.c:53:6:csp_cmp_set_memcpy	1
+../DEV/libcsp/src/csp_service_handler.c:57:12:do_cmp_ident	1
+../DEV/libcsp/src/csp_service_handler.c:83:12:do_cmp_route_set	3
+../DEV/libcsp/src/csp_service_handler.c:98:12:do_cmp_if_stats	2
+../DEV/libcsp/src/csp_service_handler.c:118:12:do_cmp_peek	2
+../DEV/libcsp/src/csp_service_handler.c:131:12:do_cmp_poke	2
+../DEV/libcsp/src/csp_service_handler.c:144:12:do_cmp_clock	4
+../DEV/libcsp/src/csp_service_handler.c:169:12:csp_cmp_handler	8
+../DEV/libcsp/src/csp_service_handler.c:216:6:csp_service_handler	21

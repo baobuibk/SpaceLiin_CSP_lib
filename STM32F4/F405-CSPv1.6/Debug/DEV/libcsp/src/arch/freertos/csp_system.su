@@ -1,0 +1,4 @@
+../DEV/libcsp/src/arch/freertos/csp_system.c:28:5:csp_sys_tasklist	16	static
+../DEV/libcsp/src/arch/freertos/csp_system.c:37:5:csp_sys_tasklist_size	8	static
+../DEV/libcsp/src/arch/freertos/csp_system.c:42:10:csp_sys_memfree	8	static
+../DEV/libcsp/src/arch/freertos/csp_system.c:48:6:csp_sys_set_color	24	static

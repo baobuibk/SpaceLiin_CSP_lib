@@ -1,0 +1,13 @@
+D:/tmp/F405-CSPv1.6/DEV/libcsp/include/csp/csp.h:182:19:csp_transaction	1
+../DEV/libcsp/src/csp_services.c:29:5:csp_ping	9
+../DEV/libcsp/src/csp_services.c:84:6:csp_ping_noreply	4
+../DEV/libcsp/src/csp_services.c:111:6:csp_reboot	1
+../DEV/libcsp/src/csp_services.c:116:6:csp_shutdown	1
+../DEV/libcsp/src/csp_services.c:121:6:csp_ps	6
+../DEV/libcsp/src/csp_services.c:173:5:csp_get_memfree	2
+../DEV/libcsp/src/csp_services.c:185:6:csp_memfree	2
+../DEV/libcsp/src/csp_services.c:197:5:csp_get_buf_free	2
+../DEV/libcsp/src/csp_services.c:209:6:csp_buf_free	2
+../DEV/libcsp/src/csp_services.c:221:5:csp_get_uptime	2
+../DEV/libcsp/src/csp_services.c:232:6:csp_uptime	2
+../DEV/libcsp/src/csp_services.c:244:5:csp_cmp	2

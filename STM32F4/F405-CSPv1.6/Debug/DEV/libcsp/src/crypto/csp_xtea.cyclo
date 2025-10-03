@@ -1,0 +1,7 @@
+../DEV/libcsp/src/crypto/csp_xtea.c:50:20:csp_xtea_encrypt_block	2
+../DEV/libcsp/src/crypto/csp_xtea.c:73:20:csp_xtea_xor_byte	2
+../DEV/libcsp/src/crypto/csp_xtea.c:81:5:csp_xtea_set_key	1
+../DEV/libcsp/src/crypto/csp_xtea.c:94:5:csp_xtea_encrypt	2
+../DEV/libcsp/src/crypto/csp_xtea.c:125:5:csp_xtea_encrypt_packet	3
+../DEV/libcsp/src/crypto/csp_xtea.c:150:5:csp_xtea_decrypt	1
+../DEV/libcsp/src/crypto/csp_xtea.c:157:5:csp_xtea_decrypt_packet	3

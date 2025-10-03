@@ -1,3 +1,0 @@
-../CSP/src/csp_bridge.c:8:6:csp_bridge_set_interfaces	16	static
-../CSP/src/csp_bridge.c:14:28:csp_input_hook	56	static
-../CSP/src/csp_bridge.c:20:6:csp_bridge_work	32	static

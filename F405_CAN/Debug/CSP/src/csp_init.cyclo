@@ -1,4 +1,0 @@
-../CSP/src/csp_init.c:21:10:csp_get_address	1
-../CSP/src/csp_init.c:25:6:csp_init	1
-../CSP/src/csp_init.c:43:6:csp_free_resources	1
-../CSP/src/csp_init.c:48:20:csp_get_conf	1
