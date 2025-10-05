@@ -180,7 +180,6 @@ void CSP_UART_IRQHandler(void)
         uint8_t rx_byte = LL_USART_ReceiveData8(USART6);
 
         // Gửi dữ liệu vào stream buffer FreeRTOS từ ISR
-//        xStreamBufferSendFromISR(xUartRxStream, &rx_byte, 1, &xHigherPriorityTaskWoken);
         csp_kiss_rx(&uart_iface, &rx_byte, 1, &xHigherPriorityTaskWoken);
         // Echo lại byte nhận
 //        LL_USART_TransmitData8(USART6, rx_byte);
